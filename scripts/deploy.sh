@@ -33,7 +33,7 @@ if [ ! -d ".git" ]; then
     git add -A
     git commit -m 'deploy'
     git branch -M main
-    git remote add origin https://github.com/bazingaedward/monaco-editor-vue3.git
+    git remote add origin https://github.com/skytim/monaco-editor-vue3.git
 fi
 
 # 推送到 gh-pages 分支
@@ -46,4 +46,4 @@ cd ../../../
 
 echo "✅ 部署完成！"
 echo "🌐 网站将在几分钟后在以下地址可用:"
-echo "   https://bazingaedward.github.io/monaco-editor-vue3/"
+echo "   https://skytim.github.io/monaco-editor-vue3/"
