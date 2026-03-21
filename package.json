@@ -7,12 +7,12 @@
   ],
   "author": "Edward Qiu",
   "license": "MIT",
-  "homepage": "https://bazingaedward.github.io/monaco-editor-vue3/",
+  "homepage": "https://skytim.github.io/monaco-editor-vue3/",
   "bugs": {
-    "url": "https://github.com/bazingaedward/monaco-editor-vue3/issues"
+    "url": "https://github.com/skytim/monaco-editor-vue3/issues"
   },
   "repository": {
-    "url": "bazingaedward/monaco-editor-vue3",
+    "url": "skytim/monaco-editor-vue3",
     "type": "git"
   },
   "main": "./dist/index.umd.js",
